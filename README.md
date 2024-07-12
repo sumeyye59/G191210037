@@ -36,3 +36,6 @@ Nesne oluşturmak gerektiğinde, builder sınıfının nesnenin ilgili özellikl
 ![Ekran Alıntıs5ı](https://github.com/user-attachments/assets/05f162d9-688f-41e4-91a6-e5314554aed5)
 
 ## Kullanım Durumu Diyagramı
+
+![kullanımdurumudiyagram](https://github.com/user-attachments/assets/cbdce02a-1458-4acf-bd24-67f670185e36)
+010a-8848-46ae-bcbe-fea5f32ac689)
